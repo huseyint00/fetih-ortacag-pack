@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fetih:item/sinif_asker_legs_t2"
+  }
+}
