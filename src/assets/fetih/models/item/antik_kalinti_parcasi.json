@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fetih:item/antik_kalinti_parcasi"
+  }
+}
